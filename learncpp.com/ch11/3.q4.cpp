@@ -17,5 +17,3 @@ In this quiz, implement the game as follows:
 Use an array to hold the divisors, and another array to hold the words (as type std::string_view). If the arrays do
 not have the same length, the program should fail to compile. Produce output for 150 numbers.
  */
-
-
